@@ -1,0 +1,6 @@
+{
+  "name": "Ionic Bonding Challenge",
+  "description": "Transfer electrons. Balance charges. Build the compound. High school chemistry interactive learning and formula writing practice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
